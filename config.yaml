@@ -1,0 +1,4 @@
+realm: <REALM>
+clientid: <CLIENTID>
+clientsecret: <CLIENT_SECRET>
+introspecturl: <INTROSEPECT_URL>
